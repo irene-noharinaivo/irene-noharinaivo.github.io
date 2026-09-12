@@ -1,6 +1,7 @@
 ---
 layout: post
-date: Fall 2026
+date: 2026-09-08
+display_date: "Fall 2026"
 inline: true
 related_posts: false
 ---
