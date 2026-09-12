@@ -1,6 +1,7 @@
 ---
 layout: post
-date: Summer 2026
+date: 2026-07-13 16:11:00-0400
+display_date: "Summer 2026"
 inline: true
 related_posts: false
 ---
