@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: Irene_Noharinaivo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
