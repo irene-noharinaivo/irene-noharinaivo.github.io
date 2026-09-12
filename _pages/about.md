@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a six year PhD student in mathematics at the `University of Minnesota, Twin Cities` working with [eff Calder](https://www-users.cse.umn.edu/~jwcalder/). My research interests are machine learning and PDEs. My thesis research focuses on Graph-based learning for non-elliptic PDEs and analysis of PINNs for Hamilton-Jacobi equation. 
+I am a six year PhD student in mathematics at the `University of Minnesota, Twin Cities` working with [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/). My research interests are machine learning and PDEs. My thesis research focuses on Graph-based learning for non-elliptic PDEs and analysis of PINNs for Hamilton-Jacobi equation. 
 
 
 
