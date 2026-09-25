@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-09-08 16:11:00-0400
-display_date: "Fall 2026"
+inline_date: "Fall 2026"
 inline: true
 related_posts: false
 ---
