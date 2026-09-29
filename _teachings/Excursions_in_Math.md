@@ -15,12 +15,12 @@ schedule:
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course aims to help you:
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+- Develop skills in mathematical reasoning and communication, including being able to read and understand mathematical descriptions in different contexts. 
+- Develop skills in problem solving.
+- Learn the mathematics behind voting, data collection, and data visualization.
+- Learn how to apply mathematical reasoning to solve real life problems.
 
 ## Prerequisites
 
