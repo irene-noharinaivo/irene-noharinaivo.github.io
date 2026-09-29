@@ -9,7 +9,7 @@ location:
 time:
 course_id: 
 schedule:
-
+---
 ## Course Overview
 
 - Introduction to Python programming language
