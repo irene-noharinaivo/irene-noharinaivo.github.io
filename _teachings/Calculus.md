@@ -2,6 +2,7 @@
 layout: course
 title: Calculus I
 description: This course introduces the mathematical field that studies change, accumulation, and the relationship between the two. 
+instructor: Irene Noharinaivo 
 year: 2026
 term: Spring
 location: 
